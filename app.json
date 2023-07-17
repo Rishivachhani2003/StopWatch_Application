@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1b8c6356-eddb-4899-ba58-a15e607ab776"
+      }
+    }
   },
   "name": "Stopwatch"
 }
